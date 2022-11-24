@@ -1,6 +1,6 @@
 # Hi there, I'm Pranshu Soni 👋
 
-## Working Netlify link :-  https://637e65a4a69c552dec6568ba--magnificent-dasik-70b1db.netlify.app/
+## Working Netlify link :-  https://637e8125319a3948de2f2e33--magnificent-dasik-70b1db.netlify.app/
 
 
 
@@ -21,7 +21,7 @@ In addition, the home page helps guide visitors by providing a title, heading, s
 
 ### Step 3:
 
-Search for Movie / TV Show: MovieVerse’s Advanced Search allows you to run very powerful queries on all people and titles in your database. Find exactly what you are looking for!
+Search for Movie / TV Show: HomeMovies’s Advanced Search allows you to run very powerful queries on all people and titles in your database. Find exactly what you are looking for!
 
 ### Step 4:
 
@@ -45,7 +45,7 @@ View Cast Details & Top-Rated Work Done by the Cast: User can view the details o
 
 ### Step 9:
 
-Give rating / reviews or add a particular movie or TV show to favorites / watch list: These features are the one which makes MovieVerse a complete user need fulfilled web app. These functions allow user to rate and give review to any movie or TV show as well as add as many of them into the list of favorites to watch later list. If user is logged in then he/she can access all these features and it will be visible in their profiles else they will be asked to login/signup to maintain the positive and true use of the web app.
+Give rating / reviews or add a particular movie or TV show to favorites / watch list: These features are the one which makes HomeMovies a complete user need fulfilled web app. These functions allow user to rate and give review to any movie or TV show as well as add as many of them into the list of favorites to watch later list. If user is logged in then he/she can access all these features and it will be visible in their profiles else they will be asked to login/signup to maintain the positive and true use of the web app.
 
 Adding movie/TV show to favourites.
 
